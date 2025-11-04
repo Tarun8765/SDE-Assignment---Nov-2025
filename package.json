@@ -1,0 +1,19 @@
+{
+  "name": "sde-assignment-merge-timeranges",
+  "version": "1.0.0",
+  "description": "Merges discontinuous time ranges within a given threshold.",
+  "main": "my-module.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "merge",
+    "time",
+    "ranges",
+    "nodejs",
+    "interview"
+  ],
+  "author": "Tarun Ghawri",
+  "license": "MIT"
+}
